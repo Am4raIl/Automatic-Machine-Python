@@ -1,11 +1,3 @@
-# IDENTIFICAÇÃO:
-# Nome: FELIPE KITAMOTO AMARAL
-# Matrícula: 2022200987
-# Programação I / Programação Funcional
-# EP 1 - Coffee Machine
-# UFES - Ciência da Computação 2022/2
-# =================================================================================================
-
 from os import system , name
 
 def limpaTela():
